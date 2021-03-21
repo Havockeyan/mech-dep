@@ -21,4 +21,5 @@ int main(){
     printf("\n%f",f);
     float h=(4*f*l*V*V)/(d*2*9.81);
     printf("\n%f",h);
+    return 0;
 }
