@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-    float d=0.20,l,h,f=0.009;
+    float d,l,h,f=0.009;
     printf("Enter the values for the following:");
     printf("Diameter of pipe:");
     scanf("%f",&d);
