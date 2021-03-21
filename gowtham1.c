@@ -13,5 +13,5 @@ int main(){
     float a=(3.14/4)*d*d;
     V=q/a;
     printf("\n%f",V);
-    
+    //hii
 }
